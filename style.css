@@ -87,3 +87,7 @@ h1{    text-align: center;
     height: auto;
     position: relative;
 }
+.obj{
+    margin: 2px 3px 3px 3px;
+    padding: 2px ;
+}
