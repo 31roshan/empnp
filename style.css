@@ -48,10 +48,8 @@ h1{    text-align: center;
     border-radius: 12px 12px 12px 12px;}
 
 
-
 .sec-2{
-    width: 1200px;
-    height: 500px;
+    width: 1200px;     height: 500px;
     align-content: center;
     border: 10px red;
 }
@@ -64,21 +62,18 @@ h1{    text-align: center;
     margin-top: 300px;
     }
 .div2{
-    height: 500px;
-    width: 400px;
+    height: 500px;     width: 400px;
     background-color: rgb(119, 70, 116);
     position: absolute;
-    margin-top: 300px;
-    margin-left: 425px;
-        
+    margin-top: 300px;    margin-left: 425px;    border-radius: 8px 8px 8px 8px;
+       
 }
 .div3{
-    height: 500px;
-    width: 400px;
+    height: 500px;     width: 400px;
     background-color: rgb(64, 85, 130);
     position: absolute;
-    left: 0px;
-    margin-top: 300px;
+    left: 0px;     margin-top: 300px;
+    border-radius: 8px 8px 8px 8px;
     
 }
 
