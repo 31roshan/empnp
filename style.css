@@ -54,7 +54,7 @@ h1{    text-align: center;
     border: 10px red;
 }
 .div1{
-    height: 300px;
+    height: 200px;
     width: 400px;
     background-color: rgb(124, 162, 10);
     position: absolute;
@@ -62,14 +62,14 @@ h1{    text-align: center;
     margin-top: 300px;
     }
 .div2{
-    height: 300px;     width: 400px;
+    height: 200px;     width: 400px;
     background-color: rgb(119, 70, 116);
     position: absolute;
     margin-top: 300px;    margin-left: 425px;    border-radius: 8px 8px 8px 8px;
        
 }
 .div3{
-    height: 300px;     width: 400px;
+    height: 200px;     width: 400px;
     background-color: rgb(64, 85, 130);
     position: absolute;
     left: 0px;     margin-top: 300px;
